@@ -5,6 +5,8 @@ const app = express();
 const port = 3000;
 
 app.use(bodyParser.json());
+app.use(express.static('public'));
+
 
 // In-memory storage for rooms and bookings
 let rooms = [];
