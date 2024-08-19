@@ -1,0 +1,5 @@
+![POST CRT](https://github.com/user-attachments/assets/ca420c74-18da-49c7-92df-694e86c11d2f)
+![POST BOOKING](https://github.com/user-attachments/assets/10787f14-01b0-4086-9f0b-2565fa415587)
+![GET BOOKING DET](https://github.com/user-attachments/assets/126d1ee6-a207-4343-81bd-35f3f4025a27)
+![GET CUST](https://github.com/user-attachments/assets/f01a47df-623d-442b-970f-607ff5f35c31)
+![GET TIME](https://github.com/user-attachments/assets/968587e2-3e7c-4f88-9e01-6684b0de1595)
