@@ -1,14 +1,14 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-
+import{rooms,bookings} from './local-variables.js';
 const app = express();
 const port = 3000;
 
 app.use(bodyParser.json());
 
-// In-memory storage for rooms and bookings
-let rooms = [];
-let bookings = [];
+// // In-memory storage for rooms and bookings
+// let rooms = [];
+// let bookings = [];
 
 // Utility function to check if a room is available
 const isRoomAvailable = (roomId, startTime, endTime, date) => {
